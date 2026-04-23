@@ -12,7 +12,6 @@ Analyze product performance and demand
 Track sales trends over time
 Evaluate order status and operational efficiency
 
-
 🗂️ Dataset
 customer – customer details
 orders – order information and status
