@@ -23,7 +23,6 @@ SQL Server
 SQL (Joins, Aggregations, Window Functions, CTEs)
 📊 Key Analysis
 
-
 👥 Customer Analysis
 Identified high-value and repeat customers
 Analyzed customer contribution to total revenue
