@@ -1,3 +1,5 @@
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 # E-commerce-Sales-Customer-Insights-Analysis-using-SQL
 Analyzed E-commerce data using SQL Server to uncover insights on customer behavior, sales trends, and product performance. Performed joins, aggregations, and window functions to identify top customers and revenue drivers. Built key metrics like total revenue and average order value, enabling data-driven decisions and improved business performance.
 🛒 E-commerce Sales & Customer Insights Analysis
