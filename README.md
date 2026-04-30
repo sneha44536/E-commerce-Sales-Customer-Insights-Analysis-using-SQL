@@ -35,6 +35,10 @@ Performed category-wise performance analysis
 Calculated total revenue and average order value
 Analyzed daily and monthly sales trends
 
+
+
+
+
 🚚 Order Analysis
 Evaluated Delivered, Cancelled, and Pending orders
 Assessed operational efficiency
