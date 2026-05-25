@@ -5,7 +5,6 @@ Analyzed E-commerce data using SQL Server to uncover insights on customer behavi
 🛒 E-commerce Sales & Customer Insights Analysis
 📌 Overview
 
-
 This project explores an E-commerce dataset using SQL Server to uncover valuable insights into customer behavior, product performance, and sales trends. By working with multiple relational tables, the analysis simulates real-world business scenarios and supports data-driven decision-making.
 
 🎯 Objectives
