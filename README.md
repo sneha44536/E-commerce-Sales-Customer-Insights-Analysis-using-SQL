@@ -3,7 +3,6 @@
 # 🛒 E-commerce Sales & Customer Insights Analysis using SQL
 
 ---
-
 ## 📌 Overview
 
 This project explores an E-commerce dataset using **SQL Server** to uncover valuable insights into:
