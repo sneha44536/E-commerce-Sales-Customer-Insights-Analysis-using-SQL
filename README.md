@@ -15,6 +15,8 @@ By working with multiple relational tables, this analysis simulates real-world b
 
 ---
 
+
+
 ## 🎯 Objectives
 
 - Understand customer purchasing behavior  
