@@ -13,9 +13,7 @@ This project explores an E-commerce dataset using **SQL Server** to uncover valu
 
 By working with multiple relational tables, this analysis simulates real-world business scenarios and supports **data-driven decision-making**.
 
----
-
-
+--
 
 ## 🎯 Objectives
 
