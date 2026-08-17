@@ -15,7 +15,10 @@ By working with multiple relational tables, this analysis simulates real-world b
 
 --
 
-## 🎯 Objectives
+
+## 🎯 Objective 
+
+
 
 - Understand customer purchasing behavior  
 - Identify top revenue-generating customers  
