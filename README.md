@@ -1,6 +1,4 @@
 
-
-
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 🛒 E-commerce Sales & Customer Insights Analysis using SQL
